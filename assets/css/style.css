@@ -1,10 +1,10 @@
 .svg-img {
     width: 2rem; /* Cambia el ancho según sea necesario */
-    height: auto; /* Mantén la proporción original */
+    height: auto; 
 }
 
 h2{
-    color:antiquewhite
+    color:antiquewhite;
 }
 #section{
     position: relative;
@@ -12,11 +12,8 @@ h2{
 }
 
 section#quienes-somos, section#destacado, section#contacto{
-  height: 550px;
+  height: 600px;
 }
-
-
-
 
 .fondo-navbar, .fondo-footer{
   background-color: #2696A1;
@@ -32,6 +29,11 @@ section#quienes-somos, section#destacado, section#contacto{
     /*padding-top: 70%;  Proporción 4:3 */
     padding-top: 800px;
   }
+
+.padding-100{
+  padding: 100px 0;
+}
+
 
   .ratio-container img {
     position: absolute;
