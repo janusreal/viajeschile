@@ -308,7 +308,7 @@
                             rows="3"></textarea>
                     </div>
                     <button type="submit"
-                        class="btn btn-primary">Enviar</button>
+                        class="btn btn-primary" data-bs-toggle="tooltip" data-bs-title="Enviar mensaje">Enviar</button>
                 </form>
 
             </section>
@@ -342,24 +342,6 @@
         <script
             src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
-        <script>
-const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-
-$(document).ready(function(){
- $("a").on('click', function(event) {
- if (this.hash !== "") {
- event.preventDefault();
- var hash = this.hash;
- $('html, body').animate({
- scrollTop: $(hash).offset().top
- }, 800, function(){
-
- window.location.hash = hash;
- });
- }
- });
-});
-</script>
+        <script src="assets/js/scripts.js"></script>
     </body>
 </html>
