@@ -1,5 +1,12 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .svg-img {
-    width: 2rem; /* Cambia el ancho según sea necesario */
+    width: 2rem;
     height: auto; 
 }
 
