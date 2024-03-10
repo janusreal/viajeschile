@@ -44,7 +44,7 @@ section#quienes-somos, section#destacado, section#contacto{
   }
 
 
-  .bg-icon{
+  .bg-icon, .card-body{
     background-color: #0899CD;
   }
 
