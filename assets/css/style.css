@@ -9,9 +9,18 @@ h2{
 #section{
     position: relative;
     top: -60px;
-    border-bottom: 5px solid yellow;
 }
 
+section#quienes-somos, section#destacado, section#contacto{
+  height: 550px;
+}
+
+
+
+
+.fondo-navbar, .fondo-footer{
+  background-color: #2696A1;
+}
 .ratio-container {
     position: relative;
     width: 100%;
