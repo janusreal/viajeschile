@@ -10,6 +10,11 @@ body {
     height: auto; 
 }
 
+.text-light:hover{
+  color: #a4d6db !important;
+}
+
+
 h2{
     color:antiquewhite;
 }
