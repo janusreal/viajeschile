@@ -24,7 +24,7 @@ h2{
 }
 
 section#quienes-somos, section#destacado, section#contacto{
-  height: 600px;
+  min-height: 600px;
 }
 
 .fondo-navbar, .fondo-footer{
