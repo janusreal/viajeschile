@@ -12,7 +12,6 @@ Familia de fuente Montserrat (Google fonts)
 
 Componentes bootstrap utilizados:
 
-- Smooth scroll
 - Tiptool
 - Navbar
 - Card
@@ -25,4 +24,4 @@ Estilos css:
 
 Javascript:
 
-- Funcionalidades para los componentes de Bootstrap Tooltip y Carousel
+- Funcionalidades para los componentes de Bootstrap Tooltip y Smooth Scroll (jquery)
