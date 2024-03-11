@@ -15,6 +15,7 @@ Componentes bootstrap utilizados:
 - Navbar
 - Card
 - Carousel
+- Form
 
 Estilos css:
 
@@ -23,4 +24,6 @@ Estilos css:
 
 Javascript para bootstrap:
 
-- Funcionalidades para los componentes de Bootstrap Tooltip y Smooth Scroll (jquery)
+- Funcionalidades para los componentes de Bootstrap:
+-  Tooltip (utilizado en boton submit del formulario y en enlaces a redes sociales en el footer) y
+-  Smooth Scroll para la navegación usando scroll (jquery)
