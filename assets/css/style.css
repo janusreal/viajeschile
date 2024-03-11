@@ -10,7 +10,7 @@ body {
     height: auto; 
 }
 
-.text-light:hover{
+a.text-light:hover{
   color: #a4d6db !important;
 }
 
